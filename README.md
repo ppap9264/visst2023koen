@@ -1,9 +1,7 @@
 # visst2023koen
-my summer camp
 
+<a href="https://ppap9264.github.io/visst2023koen/public/index.html">My Summer Camp</a>
+
+<a href="https://ppap9264.github.io/visst2023koen/public/simplejs.html">simplejs</a>
 
 https://ppap9264.github.io/visst2023koen/public/index.html
-
-simplejs
-
-https://ppap9264.github.io/visst2023koen/public/simplejs.html
