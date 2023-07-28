@@ -8,4 +8,6 @@ https://ppap9264.github.io/visst2023koen/public/index.html
 
 <a href="https://ppap9264.github.io/visst2023koen/public/index1.html">index1.html</a>
 
-<a href="https://ppap9264.github.io/visst2023koen/public/vision/browser/index.html">Edge Impulse Vision Test</a>
+<a href="https://ppap9264.github.io/visst2023koen/public/vision/browser/index.html">Edge Impulse Vision</a>
+
+<a href="https://ppap9264.github.io/visst2023koen/public/fomo/browser/index.html">Edge Impulse Fomo</a>
